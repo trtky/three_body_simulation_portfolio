@@ -3,8 +3,10 @@
 - This project computes the positions, velocities, and accelerations of three bodies interacting through Newtonian gravity.  
 - The **Velocity–Verlet** integration method is used for stable and accurate time evolution.  
 - After the simulation, the trajectories of the bodies are animated, including their motion trails.
-- Code is kept private 
 
+This project illustrates the value of three‑body simulations for understanding chaotic orbital behavior and gravitational interactions
+
+**Code is kept private**
 
 # Technologies used 
 
