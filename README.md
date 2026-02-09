@@ -1,24 +1,25 @@
-# Information
+# Project Overview
 
 - This project computes the positions, velocities, and accelerations of three bodies interacting through Newtonian gravity.  
 - The **Velocity–Verlet** integration method is used for stable and accurate time evolution.  
 - After the simulation, the trajectories of the bodies are animated, including their motion trails.
+- Code is kept private 
 
----
 
-# Run
+# Technologies used 
 
-- Execute the file `three_body_sim.py`.  
-- After the simulation finishes, an animation showing the motion of all bodies will appear.
+- Python
+- numpy
+- pandas 
+- matplotlib  
+- velocity - verlet 
 
----
 
 # Results
 
 The following image shows an example result of the simulation:
 
 ![result](results/results.png)
-
 
 
 
