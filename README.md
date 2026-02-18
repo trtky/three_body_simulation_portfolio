@@ -21,7 +21,7 @@ This project illustrates the value of three‑body simulations for understanding
 
 The following image shows an example result of the simulation:
 
-![result](results/results.png)
+![result](results/results.gif)
 
 
 
